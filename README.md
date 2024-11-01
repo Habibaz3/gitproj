@@ -1,1 +1,3 @@
 # gitproj
+
+## project notes
